@@ -1,0 +1,19 @@
+
+
+#cases {
+    width: 10px;
+    height: 10px;
+    color: red;
+    font-size: 25px;
+}
+
+ path:hover {
+    fill: #97161d;
+}
+
+#total {
+    width: 10px;
+    height: 10px;
+    color: red;
+    font-size: 25px;
+}
