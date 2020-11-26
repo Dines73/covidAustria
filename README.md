@@ -1,3 +1,3 @@
 # covidAustria
 
-<img src="images/cov19Aut">
+<img src="images/cov19Aut.jpg">
